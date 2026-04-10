@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+.font-turncoat {
+    font-family: "Walter Turncoat", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
